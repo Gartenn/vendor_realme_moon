@@ -66,5 +66,3 @@ PRODUCT_COPY_FILES += \
     vendor/realme/moon/proprietary/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptX_encoder.so \
     vendor/realme/moon/proprietary/lib64/libem_support_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libem_support_jni.so \
 
-PRODUCT_PACKAGES += \
-    ImsService
