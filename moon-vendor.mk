@@ -26,7 +26,7 @@ PRODUCT_COPY_FILES += \
     vendor/realme/moon/proprietary/product/vendor_overlay/30/lib/modules/wmt_drv.ko:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/30/lib/modules/wmt_drv.ko \
     vendor/realme/moon/proprietary/product/vendor_overlay/30/etc/powercontable.xml:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/30/etc/powercontable.xml \
     vendor/realme/moon/proprietary/product/vendor_overlay/30/etc/powerscntbl.xml:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/30/etc/powerscntbl.xml \
-    vendor/realme/moon/proprietary/system/lib64/vendor.oplus.hardware.commondcs@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.oplus.hardware.commondcs@1.0.so \
+    vendor/realme/moon/proprietary/lib64/vendor.oplus.hardware.commondcs@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.oplus.hardware.commondcs@1.0.so \
 
 # IMS blobs
 PRODUCT_COPY_FILES += \
